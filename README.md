@@ -108,6 +108,7 @@ Execute the program
 
 # OUPUT
 ### timetable
-![timetable](timetable.png)
+![Screenshot 2024-04-04 174415](https://github.com/jagadeesh9500/slot/assets/149087921/2392a58b-9cd2-45d8-8186-ff420ebdbce9)
+
 
 
