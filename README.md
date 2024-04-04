@@ -14,7 +14,10 @@ Add your timetable
 Execute the program
 
 # CODE
-```py
+```
+Developed by: JAGADEESH P
+Register number: 212223230083
+py
 <!DOCTYPE html>
 <html>
     <head>
